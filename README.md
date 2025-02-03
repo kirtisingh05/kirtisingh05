@@ -29,7 +29,7 @@ I'm a passionate software developer with a love for coding and problem-solving. 
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/kirtisingh05](https://www.linkedin.com/in/kirti-singh0543k/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kirti-singh0543k/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kirtisingh0543@gmail.com)
 
 Thank you for visiting my profile. Feel free to reach out to me for any queries or collaboration opportunities!
