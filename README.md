@@ -6,13 +6,15 @@ I'm a passionate software developer with a love for coding and problem-solving. 
 
 ## About Me
 
-- 🌱 I’m currently learning advanced topics in machine learning and cloud computing.
+- 🌱 Currently Sharpening   
+  ▫️ Advanced DSA & Problem-Solving Patterns  
+  ▫️ Blockchain Fundamentals & Ethereum Ecosystem  
+  ▫️ Smart Contract Development (Solidity)
 - 👯 I’m looking to collaborate on open-source projects related to web development and data science.
 - 💬 Ask me about Python, JavaScript, and cloud platforms like AWS and Azure.
-- 📫 How to reach me: [Email](mailto:kirtisingh0543@gmail.com) | [LinkedIn](https://www.linkedin.com/in/kirti-singh0543k)
 - ⚡ Fun fact: I love painting and often spend my weekends creating digital art🎨.
 
-# Competitive Developer & Code Craftsman 🚀
+# From LeetCode to Production-Ready Code 🚀
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=flat&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/yourprofile)
 [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=flat&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/kirti_singh_05)
