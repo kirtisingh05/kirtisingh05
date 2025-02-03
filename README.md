@@ -11,7 +11,6 @@ I'm a passionate software developer with a love for coding and problem-solving. 
   ▫️ Blockchain Fundamentals & Ethereum Ecosystem  
   ▫️ Smart Contract Development (Solidity)
 - 👯 I’m looking to collaborate on open-source projects related to web development and data science.
-- 💬 Ask me about Python, JavaScript, and cloud platforms like AWS and Azure.
 - ⚡ Fun fact: I love painting and often spend my weekends creating digital art🎨.
 
 # From LeetCode to Production-Ready Code 🚀
