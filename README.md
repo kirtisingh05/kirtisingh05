@@ -9,8 +9,8 @@ I'm a passionate software developer with a love for coding and problem-solving. 
 - 🌱 I’m currently learning advanced topics in machine learning and cloud computing.
 - 👯 I’m looking to collaborate on open-source projects related to web development and data science.
 - 💬 Ask me about Python, JavaScript, and cloud platforms like AWS and Azure.
-- 📫 How to reach me: [Email](mailto:kirtisingh0543@gmail.com) | [LinkedIn](https://www.linkedin.com/in/kirti-singh0543k)
-- ⚡ Fun fact: I love painting and often spend my weekends creating digital art.
+- 📫 How to reach me: [Email](mailto:kirtisingh0543@gmail.com) | [LinkedIn]([https://www.linkedin.com/in/kirti-singh0543k](https://www.linkedin.com/in/kirti-singh0543k/))
+- ⚡ Fun fact: I love painting and often spend my weekends creating digital art🎨.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,13 +26,6 @@ I'm a passionate software developer with a love for coding and problem-solving. 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kirtisingh05&show_icons=true&locale=en&layout=compact" alt="kirtisingh05" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kirtisingh05&show_icons=true&locale=en" alt="kirtisingh05" /></p>
-## Projects
-
-### [Project Name 1](https://github.com/kirtisingh05/project-name-1)
-A brief description of this project and what technologies were used.
-
-### [Project Name 2](https://github.com/kirtisingh05/project-name-2)
-A brief description of this project and what technologies were used.
 
 ## GitHub Stats
 
@@ -44,7 +37,7 @@ A brief description of this project and what technologies were used.
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kirtisingh05)
-[![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter)](https://twitter.com/kirtisingh05)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)]([https://www.linkedin.com/in/kirtisingh05](https://www.linkedin.com/in/kirti-singh0543k/))
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kirtisingh0543@gmail.com)
 
 Thank you for visiting my profile. Feel free to reach out to me for any queries or collaboration opportunities!
