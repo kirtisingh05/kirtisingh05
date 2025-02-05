@@ -10,7 +10,7 @@ I'm a passionate software developer with a love for coding and problem-solving. 
   ▫️ Advanced DSA & Problem-Solving Patterns  
   ▫️ Blockchain Fundamentals & Ethereum Ecosystem  
   ▫️ Smart Contract Development (Solidity)
-- 👯 I’m looking to collaborate on open-source projects related to web development and data science.
+- 👯 I’m looking to collaborate on open-source projects related to full stack development and Blockchain.
 - ⚡ Fun fact: I love painting and often spend my weekends creating digital art🎨.
 
 <h3 align="left">Languages and Tools:</h3>
