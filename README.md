@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=kirtisingh05&style=flat-square)
 
-I'm a passionate software developer with a love for coding and problem-solving. I enjoy learning new technologies and applying them to create innovative solutions. Welcome to my GitHub profile!
+I'm a software developer with a love for coding and problem-solving. I enjoy learning new technologies and applying them to create innovative solutions. Welcome to my GitHub profile!
 
 ## About Me
 
